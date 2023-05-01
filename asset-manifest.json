@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Derraco/static/css/main.7e67673d.css",
+    "main.js": "/Derraco/static/js/main.cf20c2d1.js",
+    "static/js/787.e339b0c4.chunk.js": "/Derraco/static/js/787.e339b0c4.chunk.js",
+    "static/media/gif": "/Derraco/static/media/dfd0b0f00a35b820aa28aa22e3c2782f.c356b8a29d23bf53e064.gif",
+    "index.html": "/Derraco/index.html",
+    "main.7e67673d.css.map": "/Derraco/static/css/main.7e67673d.css.map",
+    "main.cf20c2d1.js.map": "/Derraco/static/js/main.cf20c2d1.js.map",
+    "787.e339b0c4.chunk.js.map": "/Derraco/static/js/787.e339b0c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e67673d.css",
+    "static/js/main.cf20c2d1.js"
+  ]
+}
